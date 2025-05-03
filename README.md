@@ -27,18 +27,8 @@ A modern, responsive admin dashboard built as part of the **Tailwind CSS v4 From
    git clone https://github.com/maxim-francesco/admin-dashboard.git
    cd admin-dashboard
    ```
-
-2. **Install dependencies**:
-   ```bash
-   npm install
-   ```
-
-3. **Build Tailwind CSS**:
-   ```bash
-   npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch
-   ```
-
-4. **Run the project**:
+   
+2. **Run the project**:
    - Open `index.html` in a browser, or use a local server (e.g., `npx serve` or VS Code Live Server).
 
 ## 📖 Project Structure
